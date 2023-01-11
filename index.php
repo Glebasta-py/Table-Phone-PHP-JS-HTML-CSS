@@ -9,8 +9,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap" rel="stylesheet">
-    <link type="image/x-icon" href="/img/phone-svgrepo-com(1).svg" rel="shortcut icon">
-    <link type="image/x-icon" href="/img/phone-svgrepo-com(1).svg" rel="icon">
+    <link type="image/x-icon" href="../img/phone-svgrepo-com(1).svg" rel="shortcut icon">
+    <link type="image/x-icon" href="../img/phone-svgrepo-com(1).svg" rel="icon">
 </head>
 <body>
     <header>
@@ -44,17 +44,12 @@
     <footer class="footer">
    
         <div class="container">
-            <div>
                 <hr>
-                    <a href="" class="link_footer">Телефонный справочник</a>
-                    <a href="" class="link_footer">2022 Prod. Deryugin Gleb</a>
+                    <div class="footer_link">
+                        <a href="" class="link_footer">Телефонный справочник</a>
+                        <a href="" class="link_footer">2022 Prod. Deryugin Gleb</a>
+                    </div>
                 <hr>
-            </div>
-            <div class="social">
-                <a href=""><img src="" alt=""></a>
-                <a href=""><img src="" alt=""></a>
-                <a href=""><img src="" alt=""></a>
-            </div>
         </div>
    
     </footer>
